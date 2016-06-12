@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/stephenrowley/Downloads/Tasker1/app/build/intermediates/res/merged/debug/layout/activity_view_task.xml",
+        "source": "/Users/stephenrowley/Downloads/Tasker1/app/src/main/res/layout/activity_view_task.xml"
+    },
+    {
+        "merged": "/Users/stephenrowley/Downloads/Tasker1/app/build/intermediates/res/merged/debug/layout/list_inner_view.xml",
+        "source": "/Users/stephenrowley/Downloads/Tasker1/app/src/main/res/layout/list_inner_view.xml"
+    }
+]

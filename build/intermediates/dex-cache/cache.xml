@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/stephenrowley/Downloads/Tasker1/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d0fabe171ec51a3d2740c6c65d5fb3944d9fd28f">
+        <dex dex="/Users/stephenrowley/Downloads/Tasker1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_5b1532cdfb551910615e00d13d6f22c5b158a31d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/stephenrowley/Downloads/adt-bundle-mac-x86_64-20130917/sdk/extras/android/m2repository/com/android/support/support-v4/18.0.0/support-v4-18.0.0.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="44ec51e9d395a47aab135e5e1b556c0007442156">
+        <dex dex="/Users/stephenrowley/Downloads/Tasker1/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-18.0.0_fb6265dff9701b3770201de82b1be6dd68ce3fc4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/stephenrowley/Downloads/Tasker1/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="d73f5bf5658a268977d480dfeae9a273306f8501">
+        <dex dex="/Users/stephenrowley/Downloads/Tasker1/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_d9024034a8ab778fe4cb1306606eefea11720059/classes.dex" />
+    </item>
+
+</items>
